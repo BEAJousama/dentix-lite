@@ -24,7 +24,7 @@ export const proFeatures: Record<
       "A complete patient record with an interactive odontogram, medical history and allergy alerts, treatments, appointments, files, billing and notes.",
     image: "/pro/patient-profile.jpg",
     highlights: [
-      "Interactive FDI dental chart, 7 tooth states",
+      "Dental chart with FDI or Universal numbering",
       "Medical history with allergy alerts",
       "Treatments, files, billing and notes tabs",
     ],
