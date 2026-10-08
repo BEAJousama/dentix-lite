@@ -1,6 +1,6 @@
 /** Where Lite sends people for the full product. Update PRO_URL once your store page is live. */
 export const DEMO_URL = "https://dentix-mu.vercel.app";
-export const PRO_URL = "https://dentix-mu.vercel.app";
+export const PRO_URL = "https://beaj5.gumroad.com/l/dentix";
 
 /** Routes that only exist in Dentix Pro, keyed by their first path segment. */
 export const proFeatures: Record<

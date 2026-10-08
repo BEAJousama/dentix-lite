@@ -2,7 +2,7 @@
 
 **Dental care, beautifully organized.** A free, open-source admin dashboard for dental clinics, built with Next.js 16, React 19, TypeScript and Tailwind CSS v4.
 
-**[Live demo of the full version →](https://dentix-mu.vercel.app)**
+**[Live demo of the full version →](https://dentix-mu.vercel.app)** · **[Get Dentix Pro →](https://beaj5.gumroad.com/l/dentix)**
 
 ![Dentix Lite dashboard](public/screenshot.jpg)
 
@@ -15,7 +15,7 @@
 
 ## Lite vs Pro
 
-|                                                                  | Lite (free) | [Pro](https://dentix-mu.vercel.app) |
+|                                                                  | Lite (free) | [Pro](https://beaj5.gumroad.com/l/dentix) |
 | ---------------------------------------------------------------- | :---------: | :---------------------------------: |
 | Dashboard, patient directory, app shell                          |      ✓      |                  ✓                  |
 | Patient workspace with medical history, files, billing and notes |             |                  ✓                  |
